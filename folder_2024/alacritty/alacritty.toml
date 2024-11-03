@@ -1,0 +1,182 @@
+[font]
+size = 9
+# size = 9.0
+
+[font.bold]
+family = "Fira Code"
+# family = "JetBrains Mono"
+# family = "Comic Mono"
+style = "Bold"
+
+[font.italic]
+family = "Fira Code"
+# family = "JetBrains Mono"
+# family = "Comic Mono"
+style = "Italic"
+
+[font.normal]
+family = "Fira Code"
+# family = "JetBrains Mono"
+# family = "Comic Mono"
+style = "Regular"
+
+[window.dimensions]
+columns = 80
+lines = 20
+
+[window.position]
+x = 355
+y = 630
+
+# #################### THEMES #################### 
+
+# -------------------- CUSTOM --------------------
+# Colors (iTerm 2 default theme)
+
+# Default colors
+[colors.primary]
+# background = '#101421'
+foreground = '#cfcbc6'
+
+# Normal colors
+[colors.normal]
+black   = '#2e2e2e'
+red     = '#eb4129'
+green   = '#abe047'
+yellow  = '#f6c744'
+blue    = '#47a0f3'
+magenta = '#7b5cb0'
+cyan    = '#64dbed'
+white   = '#e5e9f0'
+
+# Bright colors
+[colors.bright]
+black   = '#565656'
+red     = '#ec5357'
+green   = '#c0e17d'
+yellow  = '#f9da6a'
+blue    = '#49a4f8'
+magenta = '#a47de9'
+cyan    = '#99faf2'
+white   = '#ffffff'
+
+# -------------------- SOLARIZED OSAKA --------------------
+# Colors (Solarized Osaka)
+# Source https://github.com/craftzdog/solarized-osaka.nvim
+
+# Default colors
+# [colors.primary]
+# background = '#001a1d'
+# foreground = '#839496'
+# 
+# # Normal colors
+# [colors.normal]
+# black   = '#073642'
+# red     = '#dc322f'
+# green   = '#859900'
+# yellow  = '#b58900'
+# blue    = '#268bd2'
+# magenta = '#d33682'
+# cyan    = '#2aa198'
+# white   = '#eee8d5'
+# 
+# # Bright colors
+# [colors.bright]
+# black   = '#4c4c4c'
+# red     = '#cb4b16'
+# green   = '#586e75'
+# yellow  = '#657b83'
+# blue    = '#839496'
+# magenta = '#6c71c4'
+# cyan    = '#93a1a1'
+# white   = '#fdf6e3'
+
+# -------------------- SOLARIZED LIGHT --------------------
+# Colors (Solarized Light)
+
+# Default colors
+# [colors.primary]
+# background = '#fdf6e3'
+# foreground = '#586e75'
+# 
+# # Normal colors
+# [colors.normal]
+# black   = '#073642'
+# red     = '#dc322f'
+# green   = '#859900'
+# yellow  = '#b58900'
+# blue    = '#268bd2'
+# magenta = '#d33682'
+# cyan    = '#2aa198'
+# white   = '#eee8d5'
+# 
+# # Bright colors
+# [colors.bright]
+# black   = '#002b36'
+# red     = '#cb4b16'
+# green   = '#586e75'
+# yellow  = '#657b83'
+# blue    = '#839496'
+# magenta = '#6c71c4'
+# cyan    = '#93a1a1'
+# white   = '#fdf6e3'
+# -------------------- SOLARIZED DARK  --------------------
+# Colors (Solarized Dark)
+
+# Default colors
+# [colors.primary]
+# background = '#002b36'
+# foreground = '#839496'
+# 
+# # Normal colors
+# [colors.normal]
+# black   = '#073642'
+# red     = '#dc322f'
+# green   = '#859900'
+# yellow  = '#b58900'
+# blue    = '#268bd2'
+# magenta = '#d33682'
+# cyan    = '#2aa198'
+# white   = '#eee8d5'
+# 
+# # Bright colors
+# [colors.bright]
+# black   = '#002b36'
+# red     = '#cb4b16'
+# green   = '#586e75'
+# yellow  = '#657b83'
+# blue    = '#839496'
+# magenta = '#6c71c4'
+# cyan    = '#93a1a1'
+# white   = '#fdf6e3'
+
+# -------------------- ITERM --------------------
+# Colors (iTerm 2 default theme)
+
+# Default colors
+# [colors.primary]
+# background = '#101421'
+# foreground = '#fffbf6'
+# 
+# # Normal colors
+# [colors.normal]
+# black   = '#2e2e2e'
+# red     = '#eb4129'
+# green   = '#abe047'
+# yellow  = '#f6c744'
+# blue    = '#47a0f3'
+# magenta = '#7b5cb0'
+# cyan    = '#64dbed'
+# white   = '#e5e9f0'
+# 
+# # Bright colors
+# [colors.bright]
+# black   = '#565656'
+# red     = '#ec5357'
+# green   = '#c0e17d'
+# yellow  = '#f9da6a'
+# blue    = '#49a4f8'
+# magenta = '#a47de9'
+# cyan    = '#99faf2'
+# white   = '#ffffff'
+ 
