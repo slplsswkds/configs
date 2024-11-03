@@ -1,0 +1,12 @@
+Adamsdesk KB
+Arch Linux Install EFI Stub
+https://kb.adamsdesk.com/operating_system/arch_linux_install_efistub/
+
+Rclone syncs your files to cloud storage
+https://rclone.org/
+
+Install KVM, QEMU and Virt Manager on Arch / Manjaro
+https://computingforgeeks.com/install-kvm-qemu-virt-manager-arch-manjar/
+
+Share Folder Between Windows Guest and Linux Host in KVM using virtiofs
+https://www.debugpoint.com/kvm-share-folder-windows-guest/
