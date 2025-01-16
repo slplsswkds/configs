@@ -1,0 +1,14 @@
+set nocompatible
+filetype off
+set encoding=utf-8
+
+set number
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
+call plug#begin()
+    Plug 'nvim-tree/nvim-tree.lua'      -- file explorer
+    Plug 'nvim-tree/nvim-web-devicons'  -- for icons sopport
+    Plug 'chrisbra/changesPlugin'
+call plug#end()
